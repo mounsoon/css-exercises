@@ -1,0 +1,15 @@
+/*individual styles*/
+.multiples {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+.bgcolor {
+    background-color: yellow;
+  }
+/*linked styles*/
+.multiples,
+.bgcolor {
+    font-family: Helvetica,'Times New Roman',  sans-serif;
+    font-size: 24px;
+  }
